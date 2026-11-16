@@ -11,7 +11,7 @@ A webcam gym form tracker: it watches your pose, counts your reps, and tells you
 ## Quick start
 
 ```bash
-git clone https://github.com/Saanvi365/FormCheck.git
+git clone https://github.com/saanvigunu/FormCheck.git
 cd FormCheck
 pip3 install -r requirements.txt
 python3 app.py                 # squats by default
